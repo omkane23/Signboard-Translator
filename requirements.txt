@@ -1,0 +1,8 @@
+streamlit
+opencv-python-headless
+numpy
+Pillow
+pytesseract
+googletrans==4.0.0rc1
+gTTS
+langdetect
